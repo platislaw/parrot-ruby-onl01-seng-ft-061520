@@ -6,6 +6,3 @@ def parrot(bird_sound = "Squawk")
 end
 
 parrot()
-
-
-  
